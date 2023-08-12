@@ -1,0 +1,39 @@
+*{
+    background-color: rgb(0, 0, 0);
+}
+a {
+    color: white;
+    font-size: 50px;
+    text-decoration: wavy;
+    text-decoration-line: underline;
+    text-decoration-color: chartreuse;
+    text-transform: none;
+    text-shadow: 5px 5px rgb(29, 236, 67);
+    padding: 150px;
+}
+
+p {
+    color: bisque;
+    text-indent: 150px;
+    word-spacing: 10px;
+    line-height: 1.5;
+    white-space: pre-line;
+    font-family: 'Times New Roman', Times, serif;
+    text-decoration-line: overline;
+    text-decoration-color: rgb(153, 143, 130);
+}
+#divison1 {
+    color: bisque;
+    border: 3px dashed rgb(87, 255, 121);
+    background-repeat: no-repeat;
+    padding: 150px;
+    background-clip: border-box;
+    margin-bottom: 40px;
+    text-shadow: -5px -5px rgb(29, 236, 67);
+}
+#p1{
+    text-decoration-line: underline;
+    text-decoration-color: chartreuse;
+}
+
+
